@@ -1,2 +1,4 @@
-# ReactNativeDemo
-该demo实现了简单的注册、登录、异步存储、网络数据请求及页面跳转等功能
+#RN中文网：
+    https://facebook.github.io/react-native/
+#我的博客：
+    https://www.jianshu.com/u/13c1c64bd3e1
