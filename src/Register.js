@@ -140,6 +140,11 @@ export default class Register extends Component<Props> {
         console.log("开始模拟登陆...");
         console.log("开始模拟登陆...");
         console.log("开始模拟登陆...");
+        console.log("开始模拟登陆...");
+        console.log("开始模拟登陆...");
+        console.log("开始模拟登陆...");
+        console.log("开始模拟登陆...");
+        console.log("开始模拟登陆...");
     }
 
     show(msg){
