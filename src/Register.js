@@ -136,6 +136,10 @@ export default class Register extends Component<Props> {
     login() {
         //这里可以添加你的登录逻辑
         console.log("开始模拟登陆...");
+        console.log("开始模拟登陆...");
+        console.log("开始模拟登陆...");
+        console.log("开始模拟登陆...");
+        console.log("开始模拟登陆...");
     }
 
     show(msg){
